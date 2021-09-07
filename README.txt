@@ -1,1 +1,1 @@
-Hello Git and GitHub
+Just an HTML basic file for learning the git system.
